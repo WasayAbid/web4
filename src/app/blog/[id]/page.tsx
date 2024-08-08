@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from "next/Link";
+import Link from "next/link";
 import { blogs } from '@/app/constants';
 const findBlogDetail=(id:number)=>{
   return blogs.find((item)=>{ return item.id===id;})
