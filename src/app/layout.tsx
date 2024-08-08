@@ -26,8 +26,8 @@ export default function RootLayout({
      <Link href='/Degree'>Degree</Link>
      <Link href='/Languages'>Skills</Link>
      <Link href='/Previousstudies'>Pre-Institutes</Link>
-     <Link href='/fathername'>Father's Name</Link>
-     <Link href='/mothername'>Mothers's Name</Link>
+     <Link href='/fathername'>Fathers Name</Link>
+     <Link href='/mothername'>Mothers Name</Link>
 
         </header>
         {children}
